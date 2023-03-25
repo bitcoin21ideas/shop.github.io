@@ -8,11 +8,11 @@ skills: "Пора приодеться"
 meta_author: LastName FirstName
 
 navigation:
-  - name: "Фигня"
+  - name: "ФИГНА"
     url: "/#portfolio"
-  - name: "О проекте"
+  - name: "О ПРОЕКТЕ"
     url: "/#about"
-  - name: "Обратная связь"
+  - name: "ОБРАТНАЯ СВЯЗЬ"
     url: "/#contact"
 
 
