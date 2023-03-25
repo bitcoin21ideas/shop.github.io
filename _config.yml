@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+title: БИТКОИН ЛАВКА
+email: lightning_tony@protonmail.com
+url: https://github.com/bitcoin21ideas
+description: "Лавка Биткоин сувениров"
+keywords: "биткоин, биткойн, bitcoin, сувениры, футблоки"
+skills: "Пора приодеться"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -25,21 +25,21 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: E18402 #80B3FF
+  primary-rgb: "225,132,2" #"128,179,255"
+  secondary: 2F2E2E #FD6E8A
+  secondary-dark: 171717 #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: 21ideas.org
   location: Location
-  social: Around the Web
+  наши проекты: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
+  - title: telegram
     url: http://twitter.com/jekyllrb
   - title: facebook
     url:
