@@ -7,5 +7,5 @@ alt: image-alt
 project-date: Апрель 2023
 client: Биткоинерам
 category: Футболки
-description: Супер модное описание футблоки.
+description: Супер модное описание футблоки. Может еще и [ссылку на магаз](https://btcpay0.voltageapp.io/apps/48nAysFyUwqxnmJRNmHtZKKmXfkq/pos)?
 ---
