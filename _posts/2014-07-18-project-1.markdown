@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: [genesis.png](https://cdn.shopify.com/s/files/1/2252/5177/products/bitcoin_genesis_block_cryptocurrency_crypto_bitcoin_blockchain_merch_merchandise_apparel_tee_tshirt_shirt_black_1024x1024.png)
+img: https://cdn.shopify.com/s/files/1/2252/5177/products/bitcoin_genesis_block_cryptocurrency_crypto_bitcoin_blockchain_merch_merchandise_apparel_tee_tshirt_shirt_black_1024x1024.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
