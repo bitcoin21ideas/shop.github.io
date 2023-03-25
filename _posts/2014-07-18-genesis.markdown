@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2023-03-25
+img: genesis.webp
+alt: image-alt
+project-date: Апрель 2023
+client: Биткоинерам
+category: Футболки
+description: Супер модное описание футблоки.
+---
