@@ -7,6 +7,15 @@ keywords: "биткоин, биткойн, bitcoin, сувениры, футбл
 skills: "Пора приодеться"
 meta_author: LastName FirstName
 
+navigation:
+  - name: "Фигня"
+    url: "/#portfolio"
+  - name: "О проекте"
+    url: "/#about"
+  - name: "Обратная связь"
+    url: "/#contact"
+
+
 # Google webmaster tools
 google_verify:
 
